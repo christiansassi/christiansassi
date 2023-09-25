@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Christian
+## 👋🏻 Hi, I'm Christian
 📚 Computer Engineering - Trento<br>
 📚 Computer Science - Trento
 
