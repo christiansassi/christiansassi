@@ -10,7 +10,7 @@
 [2020 - 2023] Computer Engineering - University of Trento<br>
 [2023 - <b>currently</b>] Computer Science - University of Trento
 
-## 💻 Things i code with
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
