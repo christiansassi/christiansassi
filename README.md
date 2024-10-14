@@ -14,7 +14,7 @@
 [![Tech Stack](https://skillicons.dev/icons?theme=dark&i=python,c,cpp,java,rust,js,html,bash,solidity,dart,flutter)]()
 
 ## 🌐 Socials
-[![YouTube](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sassi.christian@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-sassi)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/chri_sassi)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@sassichristian)
+[![Email](https://go-skill-icons.vercel.app/api/icons?theme=light&i=gmail)](mailto:sassi.christian@gmail.com)
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?theme=light&i=linkedin)](https://www.linkedin.com/in/christian-sassi)
+[![Twitter](https://go-skill-icons.vercel.app/api/icons?&i=twitter)](https://twitter.com/chri_sassi)
+[![YouTube](https://go-skill-icons.vercel.app/api/icons?theme=light&i=youtube)](https://youtube.com/@sassichristian)
