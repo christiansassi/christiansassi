@@ -13,11 +13,11 @@
 ## 💻 Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?theme=dark&i=python,c,cpp,java,rust,js,html,bash,solidity,dart,flutter)]()
 
-## 🏆 Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/christiansassi)
-
 ## 🌐 Socials
 [![Email](https://go-skill-icons.vercel.app/api/icons?theme=light&i=gmail)](mailto:sassi.christian@gmail.com)
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?theme=light&i=linkedin)](https://www.linkedin.com/in/christian-sassi)
 [![Twitter](https://go-skill-icons.vercel.app/api/icons?&i=twitter)](https://twitter.com/chri_sassi)
 [![YouTube](https://go-skill-icons.vercel.app/api/icons?theme=light&i=youtube)](https://youtube.com/@sassichristian)
+
+## 🏆 Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/christiansassi)
