@@ -17,4 +17,4 @@
 [![Email](https://go-skill-icons.vercel.app/api/icons?theme=light&i=gmail)](mailto:sassi.christian@gmail.com)
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?theme=light&i=linkedin)](https://www.linkedin.com/in/christian-sassi)
 [![Twitter](https://go-skill-icons.vercel.app/api/icons?&i=twitter)](https://twitter.com/chri_sassi)
-[![YouTube](https://go-skill-icons.vercel.app/api/icons?theme=light&i=youtube)](https://youtube.com/@sassichristian)
+[![YouTube](https://go-skill-icons.vercel.app/api/icons?theme=light&i=youtube)](https://youtube.com/@chri_sassi)
