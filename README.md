@@ -18,3 +18,11 @@
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?theme=light&i=linkedin)](https://www.linkedin.com/in/christian-sassi)
 [![Twitter](https://go-skill-icons.vercel.app/api/icons?&i=twitter)](https://twitter.com/chri_sassi)
 [![YouTube](https://go-skill-icons.vercel.app/api/icons?theme=light&i=youtube)](https://youtube.com/@chri_sassi)
+
+## 📄 Resume
+
+If you’d like to learn more about my professional experience and skills, you can download my resume below:
+
+<a href="https://github.com/christiansassi/christiansassi/raw/main/resume/Christian_Sassi_Resume.pdf" download="Christian_Sassi_Resume">
+<img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume"></img>
+</a>
