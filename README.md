@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/christiansassi/christiansassi/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/christiansassi/christiansassi/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture>
+</picture> <br><br>
 
 [![Total visitors](https://github-tracker-virid.vercel.app/api/views?metric=last-24-hours)]()
 [![Total visitors](https://github-tracker-virid.vercel.app/api/views?metric=total)]()
