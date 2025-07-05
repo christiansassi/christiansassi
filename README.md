@@ -5,9 +5,6 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture> <br><br>
 
-[![Today's visitors](https://img.shields.io/endpoint?url=https://github-tracker-virid.vercel.app/api/views?metric=last-24-hours&cacheSeconds=900)]()
-[![Today's visitors](https://img.shields.io/endpoint?url=https://github-tracker-virid.vercel.app/api/views?metric=total&cacheSeconds=900)]()
-
 ## 📚 Education
 
 [2023 - <b>present</b>] Computer Science - University of Trento<br>
