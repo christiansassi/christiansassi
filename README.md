@@ -5,6 +5,9 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+[![Total visitors](https://github-tracker-virid.vercel.app/api/views?metric=last-24-hours)]()
+[![Total visitors](https://github-tracker-virid.vercel.app/api/views?metric=total)]()
+
 ## 📚 Education
 
 [2023 - <b>present</b>] Computer Science - University of Trento<br>
@@ -26,3 +29,5 @@ If you’d like to learn more about my professional experience and skills, you c
 <a href="https://github.com/christiansassi/christiansassi/raw/main/resume/Christian_Sassi_Resume.pdf" download="Christian_Sassi_Resume">
 <img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume"></img>
 </a>
+
+<img src="https://github-tracker-virid.vercel.app/api/tracker" width="0" height="0" alt="tracker">
