@@ -5,8 +5,8 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture> <br><br>
 
-[![Total visitors](https://github-tracker-virid.vercel.app/api/views?metric=last-24-hours)]()
-[![Total visitors](https://github-tracker-virid.vercel.app/api/views?metric=total)]()
+[![Today's visitors](https://img.shields.io/endpoint?url=https://github-tracker-virid.vercel.app/api/views?metric=last-24-hours&style=for-the-badge&color=fe8019&cacheSeconds=900)]()
+[![Today's visitors](https://img.shields.io/endpoint?url=https://github-tracker-virid.vercel.app/api/views?metric=total&style=for-the-badge&color=fe8019&cacheSeconds=900)]()
 
 ## 📚 Education
 
