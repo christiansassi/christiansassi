@@ -26,3 +26,10 @@ If you’d like to learn more about my professional experience and skills, you c
 <a href="https://github.com/christiansassi/christiansassi/raw/main/resume/Christian_Sassi_Resume.pdf" download="Christian_Sassi_Resume">
 <img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume"></img>
 </a>
+
+## 🗞 Publications
+
+**Real-Time Musical Haptics With Ultra-Wideband: A Study on Latency, Reliability, and Perception**  
+_L. Turchet, **C. Sassi**, D. Vecchia, G. Picco_  
+Published in [IEEE Transactions on Haptics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165), January 6, 2025  
+[View publication](https://ieeexplore.ieee.org/document/10824922)
