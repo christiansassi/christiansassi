@@ -1,4 +1,4 @@
-## 👋🏻 Hi, I'm Christian
+## ![](assets/smile.gif) Hi, I'm Christian
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/christiansassi/christiansassi/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/christiansassi/christiansassi/blob/output/github-contribution-grid-snake.svg" />
