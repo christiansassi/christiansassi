@@ -7,7 +7,7 @@
 
 ## 📚 Education
 
-[2023 - <b>present</b>] Computer Science - University of Trento<br>
+[2023 - 2025] Computer Science - University of Trento<br>
 [2020 - 2023] Computer Engineering - University of Trento
 
 ## 🗞 Publications
