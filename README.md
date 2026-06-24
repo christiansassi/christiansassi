@@ -13,7 +13,7 @@
 ## 🗞 Publications
 **Real-Time Musical Haptics With Ultra-Wideband: A Study on Latency, Reliability, and Perception**  
 _L. Turchet, **C. Sassi**, D. Vecchia, G. Picco_  
-Published in [IEEE Transactions on Haptics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165), January 6, 2025  
+Published in [IEEE Transactions on Haptics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165) on January 6, 2025  
 [View publication](https://ieeexplore.ieee.org/document/10824922)
 
 ## 📄 Resume
