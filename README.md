@@ -7,8 +7,8 @@
 
 ## 📚 Education
 
-[2023 - 2025] Computer Science - University of Trento<br>
-[2020 - 2023] Computer Engineering - University of Trento
+[2023 - 2025] MSc in Computer Science, Cybersecurity - University of Trento<br>
+[2020 - 2023] BSc in Computer Engineering - University of Trento
 
 ## 🗞 Publications
 **Real-Time Musical Haptics With Ultra-Wideband: A Study on Latency, Reliability, and Perception**  
@@ -22,12 +22,3 @@ If you’d like to learn more about my professional experience and skills, you c
 <a href="https://github.com/christiansassi/christiansassi/raw/main/resume/Christian_Sassi_Resume.pdf" download="Christian_Sassi_Resume">
 <img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume"></img>
 </a>
-
-## 💻 Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?theme=dark&i=python,c,cpp,java,rust,js,html,bash,solidity,dart,flutter)]()
-
-## 🌐 Socials
-[![Email](https://go-skill-icons.vercel.app/api/icons?theme=light&i=gmail)](mailto:sassi.christian@gmail.com)
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?theme=light&i=linkedin)](https://www.linkedin.com/in/christian-sassi)
-[![Twitter](https://go-skill-icons.vercel.app/api/icons?&i=twitter)](https://twitter.com/chri_sassi)
-[![YouTube](https://go-skill-icons.vercel.app/api/icons?theme=light&i=youtube)](https://youtube.com/@chri_sassi)
