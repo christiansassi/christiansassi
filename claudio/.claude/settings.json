@@ -1,0 +1,15 @@
+{
+	"enabledPlugins": {
+		"ponytail@ponytail": true,
+		"security-guidance@claude-plugins-official": true
+	},
+	"extraKnownMarketplaces": {
+		"ponytail": {
+			"source": {
+				"source": "github",
+				"repo": "DietrichGebert/ponytail"
+			}
+		}
+	},
+	"outputStyle": "Concise"
+}
