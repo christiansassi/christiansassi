@@ -1,0 +1,22 @@
+model_verbosity = "low"
+
+[features]
+plugins = true
+
+# Ponytail
+[marketplaces.ponytail]
+source_type = "git"
+source = "https://github.com/DietrichGebert/ponytail.git"
+ref = "main"
+
+[plugins."ponytail@ponytail"]
+enabled = true
+
+# OpenAI official plugins
+[marketplaces.openai-curated]
+source_type = "git"
+source = "https://github.com/openai/plugins.git"
+ref = "main"
+
+[plugins."codex-security@openai-curated"]
+enabled = true
