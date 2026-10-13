@@ -13,7 +13,7 @@ task belongs at the top, a language or tooling detail belongs further down.
 
 ## Code style
 - Use blank lines to separate logical sections of code, such as input validation, preparation, processing, and returning results. Keep related statements together; do not write uninterrupted blocks that combine distinct steps.
-- Separate individual validation checks and processing steps with blank lines even within the same logical section, loop, or `try` block. Add a blank line after a loop header before its first check, and between preparation, a conditional, and the next step. Keep closely related assignments and operations together. Follow the spacing in `extract_team_members` in `src/helpers/team.py` as the reference style.
+- Separate individual validation checks and processing steps with blank lines even within the same logical section, loop, or `try` block. Add a blank line after a loop header before its first check, and between preparation, a conditional, and the next step. Keep closely related assignments and operations together.
 - Use one blank line between sections, functions, and classes; do not insert consecutive blank lines.
 - Never use em dashes anywhere. This covers comments, code, and terminal output, and it applies just as strictly to every non-code file in the repo: README.md, any other Markdown, documentation, commit messages, and issue or pull request text. Use a regular hyphen or rewrite the sentence.
 - Indent with tabs, tab width 4. Do not use spaces for indentation. This includes Dart. (Do not run `black`, `dart format`, or any other formatter that rewrites tabs to spaces.)
