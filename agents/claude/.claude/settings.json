@@ -1,13 +1,21 @@
 {
 	"enabledPlugins": {
 		"ponytail@ponytail": true,
-		"security-guidance@claude-plugins-official": true
+		"security-guidance@claude-plugins-official": true,
+		"rea@rea": true,
+		"playwright@claude-plugins-official": true
 	},
 	"extraKnownMarketplaces": {
 		"ponytail": {
 			"source": {
 				"source": "github",
 				"repo": "DietrichGebert/ponytail"
+			}
+		},
+		"rea": {
+			"source": {
+				"source": "github",
+				"repo": "morluto/rea"
 			}
 		}
 	},
