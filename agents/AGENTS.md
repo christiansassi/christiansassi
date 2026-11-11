@@ -1,21 +1,22 @@
 # Project instructions
 
-This file goes from general to specific. The sections at the top hold generic
-instructions that apply across many situations, and each section below narrows
-to a more particular scope. Read the top ones as always in force, and the lower
-ones as the detail that applies once you are working in that area. When adding
-a rule, place it at the level it actually applies to: a habit that shapes every
-task belongs at the top, a language or tooling detail belongs further down.
+This file goes from general to specific. The sections at the top hold generic instructions that apply across many situations, and each section below narrows to a more particular scope. 
+Read the top ones as always in force, and the lower ones as the detail that applies once you are working in that area. When adding a rule, place it at the level it actually applies to: a habit that shapes every task belongs at the top, a language or tooling detail belongs further down.
 
 ## Working method
 - Do not add a `tests` folder. If a temporary `tests` folder is needed for verification, remove it and its generated files before finishing the task.
 - On every prompt, if anything is unclear or open to more than one reading, ask for clarification before proceeding. Do not guess at intent and do not start writing code on an assumption. Ask the question first, wait for the answer, and only then act. If part of the request is clear and part is not, say which part you are proceeding with and ask about the rest.
+- Use reliable, up-to-date online sources to verify information that may have changed or that you are unsure about. Prefer primary sources, such as official documentation, and cross-check important claims against independent sources when available.
+- Create and maintain a `.vault/` directory in the working folder as persistent workspace memory. If the working folder is in a Git repository, ensure `.vault/` is ignored by Git before writing to it.
+    - Update it at meaningful checkpoints. Record progress, decisions and their rationale, findings, failed approaches, verification results, open issues, and the next action. Preserve enough detail and file references to resume work without repeating the investigation.
+    - Choose and adapt the format, structure, and indexing based on what lets you retrieve relevant information quickly with minimal context usage. Human readability is optional. Prioritize fast lookup and preservation of important details.
+    - Before starting or resuming related work, query `.vault/` for the relevant records. Load only what the task needs and update stale records as new evidence becomes available.
 
 ## Code style
 - Use blank lines to separate logical sections of code, such as input validation, preparation, processing, and returning results. Keep related statements together; do not write uninterrupted blocks that combine distinct steps.
 - Separate individual validation checks and processing steps with blank lines even within the same logical section, loop, or `try` block. Add a blank line after a loop header before its first check, and between preparation, a conditional, and the next step. Keep closely related assignments and operations together.
 - Use one blank line between sections, functions, and classes; do not insert consecutive blank lines.
-- Never use em dashes anywhere. This covers comments, code, and terminal output, and it applies just as strictly to every non-code file in the repo: README.md, any other Markdown, documentation, commit messages, and issue or pull request text. Use a regular hyphen or rewrite the sentence.
+- Never use em/en dashes anywhere. This covers comments, code, and terminal output, and it applies just as strictly to every non-code file in the repo: README.md, any other Markdown, documentation, commit messages, and issue or pull request text. Use a regular hyphen or rewrite the sentence.
 - Indent with tabs, tab width 4. Do not use spaces for indentation. This includes Dart. (Do not run `black`, `dart format`, or any other formatter that rewrites tabs to spaces.)
 - When writing a JSON file, indent it with tabs too. In Python that means `json.dumps(payload, indent="\t")`, not `indent=1` or any number, since a number means spaces.
 - Organize files into folders with a stated logic. A flat directory of everything is not organization.
