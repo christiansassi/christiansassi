@@ -4,8 +4,8 @@
 - https://github.com/kalil0321/reverse-api-engineer
 - https://github.com/emilkowalski/skills
 - https://github.com/ayghri/i-have-adhd
-- https://github.com/pbakaus/impeccable/tree/b4bff16/plugin/skills/impeccable
-- https://github.com/jakubkrehel/skills/tree/a72290d/skills/better-typography
-- https://github.com/vercel-labs/agent-skills/tree/1a2c79d/skills/web-design-guidelines
-- https://github.com/anthropics/knowledge-work-plugins/tree/0c35ee3/design/skills/design-critique
-- https://github.com/github/awesome-copilot/tree/30a0d74/skills/web-design-reviewer
+- https://github.com/pbakaus/impeccable
+- https://github.com/jakubkrehel/skills
+- https://github.com/vercel-labs/agent-skills
+- https://github.com/anthropics/knowledge-work-plugins
+- https://github.com/github/awesome-copilot
